@@ -1,4 +1,4 @@
 # first-demo
 this is my first repo,
 <br>
-author - Taleya Rahman
+author - Taleya (rahman)
